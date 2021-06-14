@@ -1,2 +1,3 @@
-# Project-work
-all projects and other work
+# Mini Project
+
+Internship project work
