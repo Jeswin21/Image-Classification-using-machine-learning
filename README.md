@@ -1,3 +1,3 @@
-# Mini Project
+# Image Classification using Machine learning
 
-Internship project work
+Internship project-2
